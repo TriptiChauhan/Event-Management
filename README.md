@@ -1,13 +1,3 @@
-<a name="readme-top"></a>
-
-<div align="center">
-
-  <img src="images/logo.jpg" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Event Management</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 # 📗 Table of Contents
@@ -152,18 +142,6 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-
-👤 **Author**
-
-- GitHub: [@roniy68](https://github.com/roniy68)
-- Twitter: [@ahroniy](https://twitter.com/ahroniy)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ahroniy)
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,58 +157,7 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
->  I need Support and Guidance to become a Developer.
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-## Designed by :
->[Cindy Shin from behance ](https://www.behance.net/adagio07) <br>
-
-## Developed By: 
-> [`Ahmed Hasan Rony`](https://www.linkedin.com/in/ahroniy)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
 
 
 
-- **How you clone the repo?**
 
-  - git clone **\<repo name\>**
-
-- **How you install node?**
-
-  - https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
