@@ -16,15 +16,6 @@
     - [Usage](#usage)
 - [To check for css errors](#to-check-for-css-errors)
 - [To check for html errors](#to-check-for-html-errors)
-  - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [Designed by :](#designed-by-)
-  - [Developed By:](#developed-by)
-  - [❓ FAQ ](#-faq-)
-  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
